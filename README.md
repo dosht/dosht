@@ -30,6 +30,13 @@ If you are looking for **cloud infrastructure and DevOps**, I can help with:
 - Implementing CI/CD pipelines and GitOps workflows.
 - Configuring cloud resources and infrastructure using Terraform.
 
+## Let's Connect
+
+I'm passionate about working on innovative projects and helping businesses achieve their goals through technology. Feel free to reach out to discuss potential collaborations or if you have any questions.
+
+- 📞 [Book a Call](https://yourcalendlylink.com)
+- 💼 [Connect on LinkedIn](https://www.linkedin.com/in/mustafa-profile)
+
 ## What I'm Currently Working On
 
 <table style="border: 1px solid #ddd; padding: 16px; margin-top: 16px; width: 100%;"">
@@ -58,10 +65,38 @@ If you are looking for **cloud infrastructure and DevOps**, I can help with:
   <a href="https://medium.com/@mou.abdelhamid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mou.abdelhamid" height="30" width="40" /></a>
 </p>
 
-# Blog posts
+## Latest Medium Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<table style="border: 1px solid #ddd; padding: 16px; margin-top: 16px; width: 100%;">
+  <tr>
+    <td style="vertical-align: top; padding-left: 16px;" width="823">
+      <h3><a href="https://medium.com/@mou.abdelhamid/post-1">Setting Up Azure Blob Storage as Argo Workflows Artifact Repository with Federated Identity</a></h3>
+      <p>Argo Workflows is a Kubernetes-native workflow engine, empowers you to orchestrate complex tasks with simplicity and scalability. In this…</p>
+    </td>
+    <td style="vertical-align: top;">
+      <img alt="Setting Up Azure Blob Storage as Argo Workflows Artifact Repository with Federated Identity" class="bw ni" src="https://miro.medium.com/v2/resize:fill:160:107/1*ShH1r3GlcRB4Riurttm5TQ.jpeg" width="160" height="107" loading="lazy">
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding-left: 16px;" width="823">
+      <h3><a href="https://medium.com/@mou.abdelhamid/post-1">Using GPT-3 for Search and Recommendations of Text Content</a></h3>
+      <p>Utilize cosine similarity to find similar documents.</p>
+    </td>
+    <td style="vertical-align: top;">
+      <img alt="Using GPT-3 for Search and Recommendations of Text Content" class="bw ni" src="https://miro.medium.com/v2/resize:fill:160:107/1*zvcIbpMhvCAUNEPX9b3xFg.png" width="160" height="107" loading="lazy">
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding-left: 16px;" width="823">
+      <h3><a href="https://medium.com/@mou.abdelhamid/post-1">How Functional Programming Makes Working With Kafka Easier?</a></h3>
+      <p>When your system starts to grow and split into multiple services, you will presumably need a way to send messages between those services…</p>
+    </td>
+    <td style="vertical-align: top;">
+      <img alt="How Functional Programming Makes Working With Kafka Easier?" class="bw ni" src="https://miro.medium.com/v2/resize:fill:160:107/1*NyoxBNfhGWcjlTuuPQ_TxA.png" width="160" height="107" loading="lazy">
+    </td>
+  </tr>
+</table>
+
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 
