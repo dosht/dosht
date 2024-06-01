@@ -41,7 +41,7 @@ I'm passionate about working on innovative projects and helping businesses achie
 
 <table>
   <tr>
-    <td style="vertical-align: top;" align="center" height="200" width="800">
+    <td style="vertical-align: top;" align="center" height="200" width="1000">
       <a href="https://www.transgate.ai/">
         <img src="https://raw.githubusercontent.com/dosht/dosht/main/images/transgate.png" alt="Transgate.ai Logo">
       </a>
