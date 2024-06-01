@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Mustafa Abdelhamid</h1>
-<h3 align="center">A seasoned software engineer with over 10 years of experience in full-stack development, data engineering, and machine learning.</h3>
+<h3 align="center">A seasoned software engineer with over 12 years of experience in full-stack development, data engineering, and machine learning.</h3>
 
+![cover](https://raw.githubusercontent.com/dosht/dosht/main/images/cover.jpg)
 
 - 🔭 I’m currently working on [Transgate.ai](https://www.transgate.ai)
 - 🌱 I’m currently learning **Fine-tuning LLMs**
@@ -14,6 +15,12 @@ If you are looking for **full-stack development**, I can help with:
 - Developing robust and scalable web applications using Next.js, React, and Tailwind CSS.
 - Implementing authentication, real-time features, and responsive designs.
 - Creating seamless user experiences and interfaces.
+
+If you are looking for LLMs and GenAI solutions, I can help with:
+
+- Integrating **large language models** into your applications for advanced text processing and generation.
+- Developing custom generative AI models tailored to your specific use cases.
+- Leveraging GPT-3 and other state-of-the-art models for innovative AI solutions.
 
 If you are looking for **data engineering**, I can help with:
 - Building and maintaining ETL/ELT pipelines using Scala, Spark, and Kubernetes.
