@@ -39,11 +39,11 @@ I'm passionate about working on innovative projects and helping businesses achie
 
 ## What I'm Currently Working On
 
-<table style="border: 1px solid #ddd; padding: 16px; margin-top: 16px; width: 100%;"">
+<table>
   <tr>
-    <td style="vertical-align: top;" align="center" height="200" width="1010">
+    <td style="vertical-align: top;" align="center" height="200" width="800">
       <a href="https://www.transgate.ai/">
-        <img src="https://www.transgate.ai/assets/logo.png" alt="Transgate.ai Logo" style="width: 200px;" class="dark-mode-logo">
+        <img src="https://raw.githubusercontent.com/dosht/dosht/main/images/transgate.png" alt="Transgate.ai Logo">
       </a>
     </td>
   </tr>
