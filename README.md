@@ -69,7 +69,7 @@ I'm passionate about working on innovative projects and helping businesses achie
 
 <table style="border: 1px solid #ddd; padding: 16px; margin-top: 16px; width: 100%;">
   <tr>
-    <td style="vertical-align: top; padding-left: 16px;" width="700">
+    <td style="vertical-align: top; padding-left: 16px;" width="658">
       <h3><a href="https://medium.com/@mou.abdelhamid/post-1">Setting Up Azure Blob Storage as Argo Workflows Artifact Repository with Federated Identity</a></h3>
       <p>Argo Workflows is a Kubernetes-native workflow engine, empowers you to orchestrate complex tasks with simplicity and scalability. In this…</p>
     </td>
@@ -78,7 +78,7 @@ I'm passionate about working on innovative projects and helping businesses achie
     </td>
   </tr>
   <tr>
-    <td style="vertical-align: top; padding-left: 16px;" width="700">
+    <td style="vertical-align: top; padding-left: 16px;" width="658">
       <h3><a href="https://medium.com/@mou.abdelhamid/post-1">Using GPT-3 for Search and Recommendations of Text Content</a></h3>
       <p>Utilize cosine similarity to find similar documents.</p>
     </td>
@@ -87,7 +87,7 @@ I'm passionate about working on innovative projects and helping businesses achie
     </td>
   </tr>
   <tr>
-    <td style="vertical-align: top; padding-left: 16px;" width="700">
+    <td style="vertical-align: top; padding-left: 16px;" width="658">
       <h3><a href="https://medium.com/@mou.abdelhamid/post-1">How Functional Programming Makes Working With Kafka Easier?</a></h3>
       <p>When your system starts to grow and split into multiple services, you will presumably need a way to send messages between those services…</p>
     </td>
