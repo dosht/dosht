@@ -34,8 +34,8 @@ If you are looking for **cloud infrastructure and DevOps**, I can help with:
 
 I'm passionate about working on innovative projects and helping businesses achieve their goals through technology. Feel free to reach out to discuss potential collaborations or if you have any questions.
 
-- 📞 [Book a Call](https://yourcalendlylink.com)
-- 💼 [Connect on LinkedIn](https://www.linkedin.com/in/mustafa-profile)
+- 📞 [Book a Call](https://calendly.com/mustafa-abdelhamid/30min)
+- 💼 [Connect on LinkedIn](https://www.linkedin.com/in/dosht/)
 
 ## What I'm Currently Working On
 
