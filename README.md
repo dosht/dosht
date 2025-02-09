@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [Transgate.ai](https://www.transgate.ai)
 - 🌱 I’m currently learning **Fine-tuning LLMs**
 - 📝 I regularly write articles on [Medium](https://medium.com/@mou.abdelhamid)
-- 📫 How to reach me **mou.abdelhamid@gmail.com**
+- 📫 How to reach me **mustafa@transgate.ai**
 
 ## What I Can Offer
 
