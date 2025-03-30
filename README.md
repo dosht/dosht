@@ -1,8 +1,11 @@
+[![FreePalestine.Dev](https://freepalestine.dev/header/1)](https://freepalestine.dev)
 
 <h1 align="center">Hi 👋, I'm Mustafa Abdelhamid</h1>
+
 <h3 align="center">A seasoned software engineer with over 12 years of experience in full-stack development, data engineering, and machine learning.</h3>
 
 ![cover](https://raw.githubusercontent.com/dosht/dosht/main/images/cover.jpg)
+
 
 - 🔭 I’m currently working on [Transgate.ai](https://www.transgate.ai)
 - 🌱 I’m currently learning **Fine-tuning LLMs**
